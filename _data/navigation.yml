@@ -1,13 +1,10 @@
 # Main navigation; the site title links to the homepage.
 main:
   - title: "Selected Publications"
-    url: /publications/
-  
-  - title: "Teaching"
-    url: /teaching/
+    url: /#publications
 
   - title: "Services"
-    url: /services/
+    url: /#services
 
   - title: "Blog"
     url: /blog/

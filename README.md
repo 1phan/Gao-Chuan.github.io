@@ -8,14 +8,16 @@ Source for [1phan.com](https://1phan.com), built with Jekyll and the
 | Page | Source | URL |
 | --- | --- | --- |
 | Homepage | `_pages/about.md` | `/` |
-| Publications | `_pages/publications.md` | `/publications/` |
-| Teaching | `_pages/teaching.md` | `/teaching/` |
-| Services | `_pages/services.md` | `/services/` |
 | Blog | `_pages/blog.html` | `/blog/` |
 | Not found | `_pages/404.md` | `/404.html` |
 
-`about.md` is the homepage. `/about/` and `/about.html` redirect to `/`.
-The site title links back to the homepage; the other navigation links are in
+`about.md` is the homepage and contains the biography, research interests,
+publications, professional service, and selected awards. The Publications and
+Services navigation links jump to `/#publications` and `/#services` on this page.
+`/about/`, `/about.html`, `/publications/`, and `/services/` redirect to `/`.
+The standalone teaching page has been removed.
+
+The site title links back to the homepage; navigation links are maintained in
 `_data/navigation.yml`.
 
 Blog posts live in `_posts/`. PDFs are in `files/`, and the profile photo and
@@ -24,8 +26,8 @@ The XML sitemap and RSS feed are generated automatically.
 
 The template demo pages, placeholder collections, sample comments, and duplicate
 archives have been removed. Blog is the single post archive; tag and category
-archive links are disabled. Teaching and publications are maintained directly in
-their page files. The optional `markdown_generator/` utilities are retained for
+archive links are disabled. Publications and professional service are maintained
+only in `_pages/about.md`. The optional `markdown_generator/` utilities are retained for
 reference and excluded from the published website.
 
 ## Local preview

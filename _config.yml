@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yifan Zhang"
 title_separator          : "-"
 name                     : &name "Yifan Zhang"
-description              : &description "Active Security Researcher"
+description              : &description "Assistant Professor at San Diego State University. Research in systems security and privacy."
 url                      : https://1phan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gao-Chuan/Gao-Chuan.github.io"
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : Gao-Chuan
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
