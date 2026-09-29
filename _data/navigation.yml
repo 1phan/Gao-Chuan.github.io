@@ -1,4 +1,4 @@
-# main links links
+# Main navigation; the site title links to the homepage.
 main:
   - title: "Selected Publications"
     url: /publications/
@@ -11,6 +11,3 @@ main:
 
   - title: "Blog"
     url: /blog/
-
-  - title: "Thoughts"
-    url: /thoughts/
