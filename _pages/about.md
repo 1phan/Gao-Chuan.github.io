@@ -16,7 +16,7 @@ My research focuses on **software supply chain, mobile, and IoT security and pri
 
 <span style="color:red"><strong>Prospective PhD students:</strong></span> I am accepting PhD students with interests in systems security and privacy. [See the recruitment flyer]({{ site.sdsu_baseurl | append: '/PhD_Recruitment.pdf' | relative_url }}) or [contact me](mailto:{{ site.author.email }}).
 
-## Selected Publications
+## Publications
 {: #publications }
 
 [Full publication details and research impact]({{ '/publications/' | relative_url }}) · [Google Scholar]({{ site.author.googlescholar }})
