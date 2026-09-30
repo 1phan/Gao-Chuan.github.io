@@ -34,6 +34,29 @@ My research focuses on **software supply chain, mobile, and IoT security and pri
 - **Journal reviewer:** IEEE Transactions on Dependable and Secure Computing (TDSC), 2026.
 - **Sub-reviewer:** PoPETs 2024; IEEE S&amp;P 2022, 2020; TDSC 2022; Inscrypt 2022; WiSec 2021; NDSS 2021, 2020; CCS 2020.
 
+## News
+{: #news }
+
+- (12/2026) **Upcoming:** [HealthSec 2026](https://publish.illinois.edu/healthsec2026/) is scheduled for December 8; I am serving on its program committee.
+- (08/2026) Our paper on [risks in the splash ads ecosystem]({{ '/publications/#splash-ads' | relative_url }}) has been accepted to ACM CCS 2026.
+- (07/2026) I will serve on the program committee of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27).
+- (02/2026) [SDIoTSec 2026](https://sdiotsec.github.io/) took place on February 23; I served on its [program committee](https://www.ndss-symposium.org/ndss2026/co-located-events/sdiotsec/leadership/).
+- (2026) I am reviewing for IEEE Transactions on Dependable and Secure Computing (TDSC).
+- (09/2025) [LineBreaker]({{ '/publications/#linebreaker' | relative_url }}), our work on finding token-inconsistency bugs with LLMs, was accepted to ASE 2025.
+- (08/2025) I joined San Diego State University as an assistant professor.
+- (07/2025) I received my Ph.D. in Computer Science from Indiana University Bloomington, advised by XiaoFeng Wang and Luyi Xing.
+- (01/2025) I will serve on the program committee of [SafeThings 2025](https://safethings25.ieee-security.org/#organization).
+- (08/2024) [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers) took place on August 14–16; I served on its [Artifact Evaluation Committee](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts).
+- (07/2024) Our paper on [fake evidence generators]({{ '/publications/#fake-evidence-generators' | relative_url }}) appeared at IEEE EuroS&amp;P 2024.
+- (05/2024) Our paper on [privacy-configurable mobile SDKs]({{ '/publications/#privacy-configurable-sdks' | relative_url }}) was accepted to USENIX Security 2024.
+- (02/2024) I joined Samsung Research America as a research intern, working there through May 2024.
+- (01/2024) I will serve on the program committees of [SDIoTSec 2024](https://sdiotsec.github.io/) and [SafeThings 2024](https://safe-things-2024.github.io/).
+- (07/2023) I received a USENIX Security Travel Award.
+- (03/2023) [Union under Duress]({{ '/publications/#union-under-duress' | relative_url }}), our work on Android software supply chain security, was accepted to USENIX Security 2023.
+- (09/2022) Our paper on [IoT data exposure through companion apps]({{ '/publications/#iot-data-exposure' | relative_url }}) was accepted to USENIX Security 2023.
+- (11/2021) Our paper on [disjointed IoT device management channels]({{ '/publications/#iot-management-channels' | relative_url }}) appeared at ACM CCS 2021.
+- (06/2020) Our paper on [resource management risks in mobile app-in-app ecosystems]({{ '/publications/#app-in-app' | relative_url }}) was accepted to ACM CCS 2020.
+
 ## Selected Awards & Recognition
 
 - USENIX Security Travel Award, 2023.

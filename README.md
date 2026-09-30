@@ -13,7 +13,7 @@ Source for [1phan.com](https://1phan.com), built with Jekyll and the
 | Not found | `_pages/404.md` | `/404.html` |
 
 `about.md` is the homepage and contains the biography, research interests,
-publications grouped by research domain, professional service, and selected awards.
+publications grouped by research domain, professional service, news, and selected awards.
 The Selected Publications page lists full citations by year, PDF links, and
 expandable research impact descriptions. The homepage links to this detailed page.
 The Services navigation link jumps to `/#services` on the homepage.
