@@ -1,7 +1,19 @@
 {% include base_path %}
 
-{% if site.tag_archive.type and page.tags[0] %}
-  {% include tag-list.html %}
+{% if page.tags[0] %}
+  {% if site.tag_archive.type %}
+    {% include tag-list.html %}
+  {% else %}
+    {% assign taxonomy_locale = page.lang | default: site.locale %}
+    <p class="page__taxonomy">
+      <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[taxonomy_locale].tags_label | default: "Tags:" }} </strong>
+      <span itemprop="keywords">
+        {% for tag in page.tags %}
+          <span class="page__taxonomy-item">{{ tag | escape }}</span>
+        {% endfor %}
+      </span>
+    </p>
+  {% endif %}
 {% endif %}
 
 {% if site.category_archive.type and page.categories[0] %}
