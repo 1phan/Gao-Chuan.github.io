@@ -16,7 +16,7 @@ Source for [1phan.com](https://1phan.com), built with Jekyll and the
 publications grouped by research domain, professional service, news, and selected awards.
 The Selected Publications page lists full citations by year, PDF links, and
 expandable research impact descriptions. The homepage links to this detailed page.
-The Services navigation link jumps to `/#services` on the homepage.
+Professional service remains a section on the homepage.
 `/about/`, `/about.html`, and `/services/` redirect to `/`.
 The standalone teaching page has been removed.
 

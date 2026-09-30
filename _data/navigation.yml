@@ -3,8 +3,5 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
-  - title: "Services"
-    url: /#services
-
   - title: "Blog"
     url: /blog/
